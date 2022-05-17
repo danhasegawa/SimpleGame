@@ -1,0 +1,1 @@
+Simple game in Java. If the user chose option 1 the interger will be converted in hours, minutes and seconds. Option 2 - will show the sum of all numbers in the integer.
